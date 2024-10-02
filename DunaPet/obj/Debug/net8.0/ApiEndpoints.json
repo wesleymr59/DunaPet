@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "DunaPet.App.Controllers.HealthyCheck.HealthyCheckController",
+    "Method": "getHealthyCheck",
+    "RelativePath": "api/healthy_check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "DunaPet.App.Entities.HealthyCheck.HealthyCheckEntitieResponse\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DunaPet.App.Controllers.User.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequest",
+        "Type": "DunaPet.App.Entities.DTO.Request.User.UserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
