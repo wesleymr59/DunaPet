@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\infrastructure\\database\\mysql\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:infrastructure\\database\\mysql\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\usecases\\user\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\usecases\\user\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\interfaces\\user\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\interfaces\\user\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\utils\\crypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\utils\\crypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\infrastructure\\database\\mysql\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:infrastructure\\database\\mysql\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\entities\\dto\\response\\user\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\entities\\dto\\response\\user\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\interfaces\\user\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\interfaces\\user\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\entities\\mysql\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|solutionrelative:app\\entities\\mysql\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BB8A8E4-85AC-4377-8BB7-0AFE581375B6}|DunaPet.csproj|c:\\users\\wesle\\onedrive\\documentos\\c#\\dunapet\\dunapet\\app\\entities\\mysql\\pets\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,102 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Crypt.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Utils\\Crypt.cs",
-              "RelativeDocumentMoniker": "App\\Utils\\Crypt.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Utils\\Crypt.cs",
-              "RelativeToolTip": "App\\Utils\\Crypt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "App\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "App\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:39:43.636Z",
+              "WhenOpened": "2024-10-02T19:59:52.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Entities\\MySQL\\Users\\Users.cs",
+              "RelativeDocumentMoniker": "App\\Entities\\MySQL\\Users\\Users.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Entities\\MySQL\\Users\\Users.cs",
+              "RelativeToolTip": "App\\Entities\\MySQL\\Users\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:52:19.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Controllers\\User\\UserController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\User\\UserController.cs",
               "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Controllers\\User\\UserController.cs",
               "RelativeToolTip": "App\\Controllers\\User\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T18:19:30.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "App\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "App\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:13:50.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Entities\\DTO\\Response\\User\\UserResponse.cs",
-              "RelativeDocumentMoniker": "App\\Entities\\DTO\\Response\\User\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Entities\\DTO\\Response\\User\\UserResponse.cs",
-              "RelativeToolTip": "App\\Entities\\DTO\\Response\\User\\UserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:02:22.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserUsecase.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Usecases\\User\\UserUsecase.cs",
               "RelativeDocumentMoniker": "App\\Usecases\\User\\UserUsecase.cs",
               "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Usecases\\User\\UserUsecase.cs",
               "RelativeToolTip": "App\\Usecases\\User\\UserUsecase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T18:01:42.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\Infrastructure\\Database\\MySql\\Repositories\\Users\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Database\\MySql\\Repositories\\Users\\UserRepository.cs",
               "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\Infrastructure\\Database\\MySql\\Repositories\\Users\\UserRepository.cs",
               "RelativeToolTip": "Infrastructure\\Database\\MySql\\Repositories\\Users\\UserRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAewB0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T18:00:55.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserInterface.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Interfaces\\User\\UserInterface.cs",
               "RelativeDocumentMoniker": "App\\Interfaces\\User\\UserInterface.cs",
               "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Interfaces\\User\\UserInterface.cs",
               "RelativeToolTip": "App\\Interfaces\\User\\UserInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T18:01:10.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Pets.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\App\\Entities\\MySQL\\Pets\\Pets.cs",
               "RelativeDocumentMoniker": "App\\Entities\\MySQL\\Pets\\Pets.cs",
@@ -149,21 +128,7 @@
               "RelativeToolTip": "App\\Entities\\MySQL\\Pets\\Pets.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T23:40:35.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\C#\\DunaPet\\DunaPet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T23:40:39.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T23:40:35.449Z"
             }
           ]
         }

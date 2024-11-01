@@ -12,6 +12,7 @@ namespace DunaPet.App.Mappings
         {
             // Aqui você mapeia suas entidades para DTOs
             CreateMap<UserRequest, UserResponse>();
+            CreateMap<User, UserResponse>();
         }
     }
 }

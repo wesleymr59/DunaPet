@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DunaPet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f5737bcb182ca807b0bdd5428298d001fde4bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44106512099f3610c4ff1b2975a238d6d8ade19b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DunaPet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DunaPet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "DunaPet.App.Controllers.User.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DunaPet.App.Controllers.HealthyCheck.HealthyCheckController",
     "Method": "getHealthyCheck",
     "RelativePath": "api/healthy_check",

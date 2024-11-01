@@ -4,6 +4,7 @@ using DunaPet.App.Entities.HealthyCheck;
 using DunaPet.App.Interfaces.HealthyCheck;
 using DunaPet.App.Interfaces.User;
 using DunaPet.App.Utils;
+using System.Security.Cryptography.X509Certificates;
 
 namespace DunaPet.App.Usecases.User
 {
@@ -24,6 +25,10 @@ namespace DunaPet.App.Usecases.User
             userRequest.Password = hasedPasswd;
             return _userInterface.CreateUser(userRequest);
 
+        }
+
+        public Task<UserResponse> GetUserById(int id){
+            return _userInterface.GetUserById(id);
         }
     }
 }

@@ -6,6 +6,7 @@ using DunaPet.App.Interfaces.User;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pet.Infrastructure.Data.Config;
+using DunaPet.App.Entities.MySQL;
 
 namespace DunaPet.Infrastructure.Database.MySql.Repositories.Users
 {
@@ -24,7 +25,7 @@ namespace DunaPet.Infrastructure.Database.MySql.Repositories.Users
             var typeProfileExists = await _context.TypeProfile.AnyAsync(tp => tp.Id == userRequest.TypeProfileId);
             if (!typeProfileExists)
             {
-                throw new Exception("TypeProfile Invalid!"); // Você pode criar uma exceção personalizada, se preferir.
+                throw new Exception("TypeProfile Invalid!");
             }
 
             var createUser = new User
@@ -47,6 +48,12 @@ namespace DunaPet.Infrastructure.Database.MySql.Repositories.Users
             await _context.AddAsync(createUser);
             await _context.SaveChangesAsync();
             return _mapper.Map<UserResponse>(userRequest);
+        }
+
+        public async Task<UserResponse> GetUserById(int id)
+        {
+            var user = await _context.User.Where(x => x.Active && x.Id == id).ToListAsync();
+            return _mapper.Map<UserResponse>(user); ;
         }
     }
 }
